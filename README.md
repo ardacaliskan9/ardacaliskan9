@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Arda+%F0%9F%91%8B;Information+Systems+Engineering+Student;C%23+Developer;Learning+.NET+%7C+SQL+%7C+Python;Always+Building+Something+New+%F0%9F%9A%80"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Arda+%F0%9F%91%8B;Information+Systems+Engineering+Student;C%23+%7C+.NET+%7C+Web+Developer;Learning+Web+Technologies+%7C+SQL+%7C+Python;Always+Building+Something+New+%F0%9F%9A%80"/>
 </p>
 
 ---
@@ -11,8 +11,8 @@
 ## 👨‍💻 About Me
 
 🎓 **Information Systems Engineering Student**  
-💻 Passionate about **Software Development**  
-🌱 Currently focusing on **C#, .NET, SQL, and Python**  
+💻 Passionate about **Software & Web Development**  
+🌱 Currently focusing on **C#, .NET, Web Technologies (HTML/CSS/JS), SQL, and Python**  
 🎯 Goal: Becoming a **Full Stack Software Developer**  
 
 ---
@@ -20,7 +20,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,mysql,git,github,vscode,visualstudio"/>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,python,mysql,git,github,vscode,visualstudio"/>
 </p>
 
 ---
