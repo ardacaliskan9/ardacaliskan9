@@ -6,9 +6,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Arda+%F0%9F%91%8B;Information+Systems+Engineering+Student;C%23+Developer;Learning+.NET+%7C+SQL+%7C+Python;Always+Building+Something+New+%F0%9F%9A%80"/>
 </p>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,python,mysql,git,github,vscode,visualstudio,linux,html,css"/>
-</p>
+
 
 
 <p align="center">
