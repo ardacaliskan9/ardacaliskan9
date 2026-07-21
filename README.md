@@ -41,9 +41,7 @@
 
 <div align="center">
 
-# Hi 👋, I'm Arda Çalışkan
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Information+Systems+Engineering+Student;C%23+Developer;Learning+.NET+%7C+SQL+%7C+Python;Always+Building+Something+New+🚀" />
 
 </div>
 
