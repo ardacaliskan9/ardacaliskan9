@@ -1,3 +1,9 @@
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,100:58A6FF&text=Arda%20%C3%87al%C4%B1%C5%9Fkan&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Information%20Systems%20Engineering%20Student&descAlignY=58"/>
+</p>
+
+
+
 <div align="center">
 
 # Hi 👋, I'm Arda Çalışkan
