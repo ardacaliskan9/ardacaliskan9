@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there 👋 I'm Arda
 
-<!--
-**ardacaliskan9/ardacaliskan9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Systems Engineering Student
 
-Here are some ideas to get you started:
+💻 Learning:
+- C#
+- .NET
+- SQL
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=ardacaliskan9&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ardacaliskan9&layout=compact&theme=tokyonight)
+
+---
+
+## 🐍 Contribution Snake
+
+![Snake](https://raw.githubusercontent.com/ardacaliskan9/ardacaliskan9/output/github-contribution-grid-snake-dark.svg)
